@@ -1,0 +1,5 @@
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV4-1\bin\Release\net8.0\publish\BloodBowlGeneratorV4-1.exe
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV4-1\bin\Release\net8.0\publish\BloodBowlGeneratorV4-1.dll
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV4-1\bin\Release\net8.0\publish\BloodBowlGeneratorV4-1.deps.json
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV4-1\bin\Release\net8.0\publish\BloodBowlGeneratorV4-1.runtimeconfig.json
+C:\Users\corey\OneDrive\Programming\Blood Bowl\BloodBowlGeneratorV4-1\bin\Release\net8.0\publish\BloodBowlGeneratorV4-1.pdb
